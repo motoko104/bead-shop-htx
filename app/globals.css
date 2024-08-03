@@ -14,8 +14,12 @@ body {
   background: rgb(var(--background-start-rgb));
 }
 
-h1 {
+h1, .h1 {
   color: rgb(var(--h1-text-default-rgb));
+}
+
+h2, h3, .h2, .h3 {
+  color: rgb(var(--text-default-rgb));
 }
 
 @layer utilities {
