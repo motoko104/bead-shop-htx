@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![`The Bead Shop HTX  site code`](/public/theBeadShopHTXplaceholderBanner.svg).
 
-## Getting Started
 
-First, run the development server:
+This is the current running repo for running The Bead Shop HTX website located here:
+[The Bead Shop HTX Site](https://www.thebeadshophtx.com/)
+
+![github count](https://img.shields.io/github/commit-activity/t/motoko104/bead-shop-htx) ![github contributors](https://img.shields.io/github/contributors/motoko104/bead-shop-htx?color=713B8A)
+![Colaborate](https://img.shields.io/badge/Repo_Type-retail_small_business-9D2D99)
+
+## Running Locally
+
+This code currently can be run locally to test out. 
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
 # or
-bun dev
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## General Information
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Included in this repo are the design images for the site. [This](https://www.figma.com/design/cjGk8UYkSBghSxhWHBSrsP/The-Bead-Shop-HTX?node-id=0-1&t=et3TT8jioZI97f3F-1) is also a link to the Figma online design files.
 
-## Learn More
+- Currently this is just the beginning of this site as requested, over time this may just be moved over to Shopify to add in secure small retail business functionality for payments.
 
-To learn more about Next.js, take a look at the following resources:
+- This is a React project with a Next.js framework using Typescript as well as Tailwind for styling.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Have Questions
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Feel free to reach out to myself for any site questions at amanda.padilla104@gmail.com. For any questions about the bead shop htx store reach out to help@thebeadshophtx.com 
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Current Site View
+![screenshot of the bead shop placeholder page](/public/Screenshot%202024-08-03%20214929.png)
